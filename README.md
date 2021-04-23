@@ -20,4 +20,5 @@ Stem 5:
 To run the project (start the server) run commmand
     "npm run dev"
 
+Now you can see your server running at *http://localhost:3000*
 
